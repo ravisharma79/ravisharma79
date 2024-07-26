@@ -32,7 +32,7 @@ alt="https://www.linkedin.com/in/ravisharma79" height="30" width="40" /></a>
 <img src="https://www.svgrepo.com/show/448236/linux.svg" alt="LINUX" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravisharma79&show_icons=true&locale=en&layout=compact" alt="ravisharma79" /></p>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ravisharma79)](https://github.com/ravisharma79/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravisharma79&show_icons=true&locale=en" alt="ravisharma79" /></p>
 
